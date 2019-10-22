@@ -24,6 +24,6 @@ describe("google search", () => {
 
     const title = browser.getTitle();
     const words = title.split(" ");
-    assert.strictEqual(words[0], 'Cheese!');
+    assert.strictEqual(words[0], "Cheese!");
   });
 });
