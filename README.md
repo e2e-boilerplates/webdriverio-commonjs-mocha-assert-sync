@@ -4,7 +4,7 @@ WebdriverIO end-to-end test automation boilerplate project. Using commonjs, asse
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/webdriverio-commonjs-assert-mocha-sync.git
-    cd webdriverio-commonjs-assert-mocha-sync
+    git clone git@github.com:e2e-boilerplates/webdriverio-commonjs-mocha-assert-sync.git
+    cd webdriverio-commonjs-mocha-assert-sync
     npm install
     npm run test
