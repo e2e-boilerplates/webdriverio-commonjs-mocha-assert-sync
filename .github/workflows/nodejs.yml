@@ -1,4 +1,4 @@
-name: webdriverio-commonjs-assert-sync
+name: webdriverio-commonjs-mocha-assert-sync
 
 on: [push]
 

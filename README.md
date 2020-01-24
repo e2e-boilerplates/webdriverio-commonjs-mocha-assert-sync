@@ -1,6 +1,6 @@
 # WebdriverIO (sync): (commonjs, assert, mocha)
 
-[![GitHub Actions status | e2e-boilerplates/webdriverio-commonjs-assert-sync](https://github.com/e2e-boilerplates/webdriverio-commonjs-mocha-assert-sync/workflows/webdriverio-commonjs-assert-sync/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-commonjs-mocha-assert-sync/actions?workflow=webdriverio-commonjs-assert-sync)
+[![GitHub Actions status | e2e-boilerplates/webdriverio-commonjs-mocha-assert-sync](https://github.com/e2e-boilerplates/webdriverio-commonjs-mocha-assert-sync/workflows/webdriverio-commonjs-mocha-assert-sync/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-commonjs-mocha-assert-sync/actions?workflow=webdriverio-commonjs-mocha-assert-sync)
 
 WebdriverIO end-to-end test automation boilerplate project. Using commonjs, assert and mocha
 
