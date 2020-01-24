@@ -2,7 +2,7 @@ const assert = require("assert");
 
 describe("Sandbox", () => {
   before(() => {
-    browser.url("https://www.google.com/");
+    browser.url("https://e2e-boilerplates.github.io/sandbox/");
   });
 
   it("should be on Sandbox", () => {
