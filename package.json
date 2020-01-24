@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "WebdriverIO end-to-end test automation boilerplate project. Using commonjs, assert & mocha",
   "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx wdio wdio.conf.js",
-    "test-ci": "npx wdio wdio-ci.conf.js",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "test-ci": "npx wdio wdio-ci.conf.js"
   },
   "keywords": [
     "webdriverio",
