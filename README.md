@@ -1,4 +1,4 @@
-# WebdriverIO (sync): (commonjs, assert, mocha)
+# WebdriverIO: (commonjs, assert, mocha)
 
 [![GitHub Actions status | e2e-boilerplates/webdriverio-commonjs-mocha-assert](https://github.com/e2e-boilerplates/webdriverio-commonjs-mocha-assert/workflows/webdriverio-commonjs-mocha-assert/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-commonjs-mocha-assert/actions?workflow=webdriverio-commonjs-mocha-assert)
 
