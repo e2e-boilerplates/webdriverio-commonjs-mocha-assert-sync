@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-commonjs-mocha-assert-sync",
+  "name": "webdriverio-commonjs-mocha-assert",
   "version": "1.0.0",
-  "description": "WebdriverIO end-to-end test automation boilerplate project. Using commonjs, assert & mocha",
+  "description": "WebdriverIO end-to-end test automation boilerplate, using CommonJS, Mocha and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx wdio wdio.conf.js",
@@ -13,7 +13,9 @@
     "assert",
     "sync",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "assert"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
