@@ -1,4 +1,4 @@
-const { strictEqual } = require("assert");
+const assert = require("assert");
 
 describe("Sandbox", () => {
   before(() => {
@@ -9,7 +9,7 @@ describe("Sandbox", () => {
     const title = browser.getTitle();
     const header = $("h1");
 
-    strictEqual(title, "Sandbox");
-    strictEqual(header.getText(), "Sandbox");
+    assert.strictEqual(title, "Sandbox");
+    assert.strictEqual(header.getText(), "Sandbox");
   });
 });
