@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/webdriverio-commonjs-mocha-assert](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-assert/workflows/webdriverio-commonjs-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-assert/actions?workflow=webdriverio-commonjs-mocha-assert)
+[![GitHub Actions status | e2e-boilerplate/webdriverio-commonjs-mocha-assert](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-assert/workflows/webdriverio-commonjs-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-assert/actions?workflow=webdriverio-commonjs-mocha-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # WebdriverIO Boilerplate
 
