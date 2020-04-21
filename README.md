@@ -9,3 +9,6 @@ WebdriverIO end-to-end test automation boilerplate, Using Commonjs, Mocha and As
     	2. cd webdriverio-commonjs-mocha-assert
     	3. npm install
     	4. npm run test
+        
+    
+For more boilerplate click [here](https://github.com/e2e-boilerplate/utils/blob/master/docs/implemented.md)
