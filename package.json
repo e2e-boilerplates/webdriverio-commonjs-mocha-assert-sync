@@ -11,7 +11,7 @@
     "@wdio/sync": "6.11.0",
     "chromedriver": "90.0.4430.24",
     "mocha": "8.3.2",
-    "wdio-chromedriver-service": "6.0.4"
+    "wdio-chromedriver-service": "7.0.0"
   },
   "description": "WebdriverIO end-to-end test automation boilerplate. Using Commonjs, Mocha and Assert.",
   "devDependencies": {
